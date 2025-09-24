@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Akshaya
-## 🤖 Studying Mechatronics Engineering at the University of Waterloo.
+🤖 Studying Mechatronics Engineering at the University of Waterloo.
 
 <!--
 **akshayat10/akshayat10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
